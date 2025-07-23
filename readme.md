@@ -113,7 +113,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
 
 2.  [Setosa – Visualização Interativa de Kernels de Imagem](https://setosa.io/ev/image-kernels/)  
 
-3.  [Helton Maia – Visão Computacional](https://heltonmaia.com/computervision/intro.html)  ]
+3.  [Helton Maia – Visão Computacional](https://heltonmaia.com/computervision/intro.html)  
 
 4.  [React – Documentação Oficial](https://react.dev/reference/react)  
 
