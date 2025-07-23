@@ -106,4 +106,16 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
 4. Acesse no navegador:
    ```bash
    http://localhost:5173
+
+## 📚 Referências
+
+1.  [OpenCV – Documentação Oficial](https://docs.opencv.org/4.x/)  
+
+2.  [Setosa – Visualização Interativa de Kernels de Imagem](https://setosa.io/ev/image-kernels/)  
+
+3.  [Helton Maia – Visão Computacional](https://heltonmaia.com/computervision/intro.html)  ]
+
+4.  [React – Documentação Oficial](https://react.dev/reference/react)  
+
+
 ---
