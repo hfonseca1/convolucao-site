@@ -74,4 +74,11 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
 - Python 3 instalado
 - `pip` e ambiente virtual Python (venv)
 
+### Backend (Flask)
+1. Navegue até a pasta do backend:
+    ```bash
+   cd backend
+2. ```bash
+   python -m venv venv
+   venv\Scripts\activate  
 ---
