@@ -88,4 +88,18 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
 4. Inicie o servidor:
    ```bash
    python main.py
+
+### Frontend (React + Vite)
+1. Navegue até a pasta do frontend (onde está package.json):
+    ```bash
+    cd vite-project
+2. Instale as dependências:
+   ```bash
+   npm install
+3. Inicie o frontend:
+   ```bash
+   npm run dev
+4. Acesse no navegador:
+   ```bash
+   http://localhost:5173
 ---
