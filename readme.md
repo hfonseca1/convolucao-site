@@ -1,4 +1,5 @@
 #Estrutura do Projeto:
+```
 ├───backend
 │       main.py
 │       requirements.txt
@@ -38,6 +39,7 @@
         └───pages
                 Home.css
                 Home.jsx
+```
 
 #Introdução
 .
