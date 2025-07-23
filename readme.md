@@ -106,8 +106,13 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
 4. Acesse no navegador:
    ```bash
    http://localhost:5173
+   
+# Conclusão 
+Com esse projeto, eu consegui melhorar meus conhecimentos em visão computacional, integração de frontend com backend, e manipulação de imagens com kernels.
+Ele também serve como base para aplicações mais avançadas, como reconhecimento de objetos ou segmentação de imagens.
+Futuramente gostaria de aplicar matrizes interativas, que são aplicadas às imagens em tempo real. 
 
-## 📚 Referências
+#  Referências
 
 1.  [OpenCV – Documentação Oficial](https://docs.opencv.org/4.x/)  
 
