@@ -78,7 +78,14 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
 1. Navegue até a pasta do backend:
     ```bash
    cd backend
-2. ```bash
+2. Crie e ative o ambiente virtual:
+   ```bash
    python -m venv venv
-   venv\Scripts\activate  
+   venv\Scripts\activate
+3. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+4. Inicie o servidor:
+   ```bash
+   python main.py
 ---
