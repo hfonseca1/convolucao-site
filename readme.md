@@ -1,4 +1,4 @@
-#Estrutura do Projeto:
+# Estrutura do Projeto:
 ```
 ├───backend
 │       main.py
@@ -41,6 +41,6 @@
                 Home.jsx
 ```
 
-#Introdução
-.
-.
+# Introdução
+O avanço das tecnologias de visão computacional tem impulsionado aplicações em áreas como segurança, saúde, transporte e inteligência artificial. No entanto, os conceitos fundamentais por trás do processamento de imagens, como o funcionamento de kernels convolucionais, ainda são abstratos para iniciantes na área.
+Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa, baseada em React + Flask, que auxilie estudantes a entenderem como os computadores enxergam imagens e como kernels são aplicados nelas. A ideia do site é que o usuário aprenda gradativamete como funcionam os kernels, começando com a visualização da matriz de uma imagem (escala de cinza), até a possibilidade de enviar a sua própria imagem para ver os filtros sendo aplicados.
