@@ -65,9 +65,10 @@ Este projeto tem como objetivo desenvolver uma ferramenta educacional interativa
   - Processamento da imagem com OpenCV
   - Conversão para Base64 e envio como JSON
 
-## 🚀 Como Executar Localmente
+## Como Executar Localmente
 
-###  Pré-requisitos
+### Pré-requisitos
+(todo o desenvolvimento ocorreu no Windows, então os seguites passos ajudarão apenas usuários do mesmo sistema operacional)
 
 - Node.js e npm instalados
 - Python 3 instalado
