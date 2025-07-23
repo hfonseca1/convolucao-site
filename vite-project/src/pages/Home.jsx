@@ -27,7 +27,7 @@ export default function Home() {
           </ul>
           <h2>Como o computador enxerga uma imagem?</h2>
           <p>Primeiramente é essencial o entendimento sobre como os computadores visualiazm imagens. Então, vamos ver a explicação logo abaixo</p>
-          <p>À esquerda, você vê a matriz de pixels que representa a imagem. Cada número indica o nível de intensidade luminosa de um pixel em escala de cinza — valores que variam de 0 (preto) a 255 (branco).</p>
+          <p>À esquerda, você vê a matriz de pixels que representa a imagem. Cada número indica o nível de intensidade luminosa de um pixel em escala de cinza, os valores variam de 0 (preto) a 255 (branco).</p>
           <p>À direita, essa mesma matriz é renderizada como imagem. O que para nós parece uma imagem normal, para o computador é apenas uma tabela de números.</p>
           <Pixel />
           <h2>Aplicando Kernel em Imagens</h2>
